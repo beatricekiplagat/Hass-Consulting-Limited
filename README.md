@@ -11,10 +11,15 @@ In an effort to do this, we need to identify some areas of interest via sampling
 I am required to perform modeling using the following regression techniques then evaluate their performance:
 
 Multiple Linear Regression
+
 Quantile Regression
+
 Ridge Regression
+
 Lasso Regression
+
 Elastic Net Regression
+
 I will then provide my observations and recommendation on the suitability of each of the tested models on their appropriateness of solving the given problem.
 ## Setup/Installation Requirements
 Use Git Clone to clone the repository. 
